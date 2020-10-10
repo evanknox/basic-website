@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Evan Knox
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Statistical Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Duke University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are still somewhat in flux, but could reasonably include Bayesian methods, causal inference, record linkage, and data assimilation and weather/climate modeling.  
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+ - Bayesian methods
+ - Causal inference
+ - Record Linkage
+ - Data Assimilation
+ - Statistics Education and Curriculum Design
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS in Statistics, Physics, Psychology (Emphasis in Neuroscience)
+    institution: University of Georgia
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:evan.knox@duke.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -53,7 +49,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/evanknox
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Howdy!  There's not much on this website at present, but you're welcome to it all the same.  Lacking especially mature research coming down the pipeline, anything I add here in the near future may be focused on thinking about how I'd like to approach statistics pedagogy and curricula. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests are still somewhat in flux, but could reasonably include Bayesian methods, causal inference, record linkage, and data assimilation and weather/climate modeling. 
