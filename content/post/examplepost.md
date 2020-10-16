@@ -1,10 +1,8 @@
 ---
-
 title:  "Why doesn't a stat major get you into a stat PhD?"
 subtitle:  "What should a stat major be anyways?"
 author:  "Evan Knox"
 time:  "Oct 17, 2020"
-
 ---
 
 (Note:  I am, as you will note below, a largely dreadful writer who channels ponderousness and verbal akrasia.  I'm given to understand that writing and trying to get more brief as one goes one is probably one of the better ways to fix this, so I've resolved to write periodically, largely about the topic I care for more than most other things:  undergraduate curriculum design, particularly in statistics.  Hopefully some day all of my subsequent thoughts will coalesce into a fully-formed teaching statement like so many of Sam Wainwright or Mr. McGuire's enticing polymers.)
