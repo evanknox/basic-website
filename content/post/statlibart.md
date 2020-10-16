@@ -3,8 +3,6 @@ title:  "Statistics as a liberal art"
 author: "Evan Knox"
 ---
 
-active=FALSE
-
 (Not written yet)
 
 (Future outline:  further discussion of my personally designed undergraduate statistics curriculum)
