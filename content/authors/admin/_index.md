@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are still somewhat in flux, but could reasonably include Bayesian methods, causal inference, record linkage, and data assimilation and weather/climate modeling.  
+bio: I post some excessively-wordy blog posts about statistics education when I'm not massively behind on doing subpar math!
 
 interests:
  - Bayesian methods
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Statistics, Physics, Psychology (Emphasis in Neuroscience)
+  - course: BS in Statistics
     institution: University of Georgia
     year: 2019
 
@@ -44,9 +44,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/EvanDKnox
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/evanknox
