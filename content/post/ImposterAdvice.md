@@ -17,7 +17,7 @@ The caring about something, as I noted, was a bit harder for me.  I recommend th
 
 Obviously, both of these suggestions, particularly the math-background, are rather easier to follow to level of my suggestions if you live in at least a moderately-sized city and have access to upper-middle-class or beyond sorts of resources.  I'm hardly qualified to give much advice to those not in those situations, but I'll give a few guesses.  For one, dual-enrollment seems relatively common in rural parts of my home-state (Georgia), so I suspect that may also be something to look into for folks not in cities; granted, that's a function of the community college/technical college/agricultural college infrastructure in your area (if you live in the US; I have even less to say about non-US situations).  Beyond that, if reliable internet is available to you, there are plenty such things that can be available online -- math classes (things like Khan Academy of course, but plenty of material to self-study online for more advanced topics), things to volunteer for and work on, researchers to cold-email and potentially collaborate with (provided it's not a bench lab sort of research).
 
-#College
+# College
 
 (Notes for future:  Breadth is probably good.  I wouldn't stick with any of my majors, including Stat -- replace with Comp. Sci.  Some fields are more valuable as symbols of intelligence in other fields than others.  Would generally encourage unusual paths, which are generally good for the soul but also will make you stick out in grad school applications)
 
