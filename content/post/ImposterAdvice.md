@@ -7,7 +7,7 @@ Invariably, lots of discussion intended for academic audiences focuses on the Im
 
 As such, I think it's important that those of us who don't fall into any such categories, and have academic parents and relatives and whatnot, acknowledge when we are, in fact, lacking in many important skills for our fields.  A key component of (the colloquial version of) "Imposter Syndrome" is that the folks that experience it ARE actually qualified and reasonably good at their job/field.  Since I do not qualify for that, I will instead use this status as an avenue to review how I got to a statistics PhD, how I think I would've benefitted from some alternative pathways, and do my obligatory "here's my advice about studying statistics/getting into PhD programs" post that is so ubiquitous that it's effectively useless.  
 
-#Pre-College Preparation
+# Pre-College Preparation
 
 Ultimately, I think good preparation for grad school in statistics at this level is pretty simple:  take a lot of math, and care about some sort of topic.  
 
@@ -21,6 +21,6 @@ Obviously, both of these suggestions, particularly the math-background, are rath
 
 (Notes for future:  Breadth is probably good.  I wouldn't stick with any of my majors, including Stat -- replace with Comp. Sci.  Some fields are more valuable as symbols of intelligence in other fields than others.  Would generally encourage unusual paths, which are generally good for the soul but also will make you stick out in grad school applications)
 
-#Post-Undergrad
+# Post-Undergrad
 
 (Go straight to grad school or not?  )
