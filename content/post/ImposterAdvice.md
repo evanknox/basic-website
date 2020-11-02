@@ -21,6 +21,17 @@ Obviously, both of these suggestions, particularly the math-background, are rath
 
 (Notes for future:  Breadth is probably good.  I wouldn't stick with any of my majors, including Stat -- replace with Comp. Sci.  Some fields are more valuable as symbols of intelligence in other fields than others.  Would generally encourage unusual paths, which are generally good for the soul but also will make you stick out in grad school applications)
 
+In undergrad, I majored in three fields:  Physics, Psychology (emphasis in Neuroscience), and Statistics.  Given a re-do, I doubt I would choose any of those three as majors -- statistics is probably the only one I'd seriously consider.  
+
+My revised plan would still be to triple major, but with the following guidelines:  one major in a STEM field that will be immediately useful in getting a job (e.g. some kind of engineering, computer science), one major in a liberal art sheerly for my own enjoyment without regard for how employable it would make me (e.g. theater, sociology, english), and one major in whatever I think would best prepare me for statistics (which may be statistics, but arguably could also be math, computer science, maybe a new data science degree).  I would also argue that it may be best to substitute in for this last major a major in an application area you hope to work on -- for instance, that particular interest you've had for some time now and have already worked on (e.g. ecology, genetics, meteorology, political science, education), particularly since many people have gone from degrees like computer science or engineering and gone on to excellent careers in statistics/data science (thereby somewhat limiting the benefits of another degree in a potentially similar field).  
+
+Of course, most folks probably don't have the chance to triple-major in college, either for money-saving reasons or just because being able to dual-enroll for two years and take AP classes on top of that isn't super available outside of cities with a university and reasonably large and well-funded schools.  Fundamentally, plenty of what I've suggested (particularly the majors in a liberal art and an application area) could easily be made into minors or certificates or whatnot.  Frankly, it doesn't even really matter -- getting three majors is a great exercise in taking exactly the classes you need for the major, and often letting useful classes that aren't strict requirements for those majors fall by the wayside.  
+
+(Discussion of topis most and least important to learn in undergrad?)
+
+(Ones I wish I had learned:  most computer science, reading statistics papers, advanced linear models)
+
+
 # Post-Undergrad
 
 (Go straight to grad school or not?  )
